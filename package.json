@@ -1,0 +1,17 @@
+{
+  "name": "cr7-stats-api",
+  "version": "1.0.0",
+  "description": "Projeto em Node.js para mostrar as estatísticas do jogador de futebol portugês Cristiano Ronaldo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "cr7"
+  ],
+  "author": "Vini Rossi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
